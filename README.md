@@ -7,13 +7,13 @@
 ![Power BI Dashboard](a23_bi_4.png)
 
 ### Bitcoin
-![Power BI Dashboard](bitcoin_bi.png.png)
+![Power BI Dashboard](bitcoin_bi.png)
 
 ### DataSUS Tuberculose
 ![Power BI Dashboard](tuberculose_bi.png)
 
 ### DataSUS Tuberculose Dash
-![Power BI Dashboard](tuberculose_jpeg.png)
+![Power BI Dashboard](tuberculose_jpeg)
 
 ### DataSUS CID N18
 ![Power BI Dashboard](n180_bi.png)

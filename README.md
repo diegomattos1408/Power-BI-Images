@@ -13,7 +13,7 @@
 ![Power BI Dashboard](tuberculose_bi.png)
 
 ### DataSUS CID A15
-![Power BI Dashboard](tuberculose_jpeg)
+![Power BI Dashboard](tuberculose_dash.jpeg)
 
 ### DataSUS CID N18
 ![Power BI Dashboard](n180_bi.png)

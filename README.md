@@ -9,10 +9,10 @@
 ### Bitcoin
 ![Power BI Dashboard](bitcoin_bi.png)
 
-### DataSUS Tuberculose
+### DataSUS CID A15
 ![Power BI Dashboard](tuberculose_bi.png)
 
-### DataSUS Tuberculose Dash
+### DataSUS CID A15
 ![Power BI Dashboard](tuberculose_jpeg)
 
 ### DataSUS CID N18

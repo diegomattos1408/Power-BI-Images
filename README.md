@@ -12,7 +12,7 @@
 ### DataSUS CID A15
 ![Power BI Dashboard](tuberculose_bi.png)
 
-### DataSUS CID A15
+### DataSUS CID A15 Dash Python
 ![Power BI Dashboard](tuberculose_dash.jpeg)
 
 ### DataSUS CID N18

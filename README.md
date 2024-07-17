@@ -6,7 +6,7 @@
 ![Power BI Dashboard](a23_bi_3.png)
 ![Power BI Dashboard](a23_bi_4.png)
 
-### Bitcoin
+### Bitcoin (Yahoo finance)
 ![Power BI Dashboard](bitcoin_bi.png)
 
 ### DataSUS CID A15
@@ -18,7 +18,7 @@
 ### DataSUS CID N18
 ![Power BI Dashboard](n180_bi.png)
 
-### Eletrical Vehicles US
+### Electric Vehicles US (Kaggle)
 ![Power BI Dashboard](eletric_vehicle_population_bi.png)
 
 

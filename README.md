@@ -16,7 +16,7 @@
 ![Power BI Dashboard](images/tuberculose_dash.jpeg)
 
 ### DataSUS CID N18
-![Power BI Dashboard](images/images/n180_bi.png)
+![Power BI Dashboard](images/n180_bi.png)
 
 ### Electric Vehicles US (Kaggle)
 ![Power BI Dashboard](images/eletric_vehicle_population_bi.png)

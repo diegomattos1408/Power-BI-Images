@@ -21,5 +21,8 @@
 ### Electric Vehicles US (Kaggle)
 ![Power BI Dashboard](images/eletric_vehicle_population_bi.png)
 
+## Stocks Google META NVDA
+![Power BI Dashboard](images/stocks.png)
+
 
 
